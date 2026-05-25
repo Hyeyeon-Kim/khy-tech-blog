@@ -1,7 +1,7 @@
 title: KHY Tech Blog
 description: Backend engineering notes from real implementation and measurement.
-url: ""
-baseurl: ""
+url: "https://hyeyeon-kim.github.io"
+baseurl: "/khy-tech-blog"
 lang: ko-KR
 timezone: Asia/Seoul
 
