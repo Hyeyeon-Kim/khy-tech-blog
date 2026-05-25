@@ -1,0 +1,21 @@
+title: Hyeyeon Kim Tech Blog
+description: Backend engineering notes from real implementation and measurement.
+url: ""
+baseurl: ""
+lang: ko-KR
+timezone: Asia/Seoul
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /posts/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
+
+exclude:
+  - README.md
