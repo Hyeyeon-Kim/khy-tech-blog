@@ -1,4 +1,4 @@
-# Hyeyeon Kim Tech Blog
+# KHY Tech Blog
 
 GitHub Pages blog for backend engineering notes.
 

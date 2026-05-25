@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hyeyeon Kim Tech Blog
+title: KHY Tech Blog
 ---
 
-# Hyeyeon Kim Tech Blog
+# KHY Tech Blog
 
 백엔드 개발 과정에서 마주친 문제와 측정 기반 의사결정을 기록합니다.
 
