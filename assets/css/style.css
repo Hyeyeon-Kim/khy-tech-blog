@@ -49,6 +49,14 @@ body {
   font-size: 17px;
 }
 
+.content img {
+  display: block;
+  width: auto;
+  max-width: min(100%, 600px);
+  height: auto;
+  margin: 24px auto;
+}
+
 h1,
 h2,
 h3 {
