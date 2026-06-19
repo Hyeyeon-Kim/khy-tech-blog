@@ -52,7 +52,7 @@ body {
 .content img {
   display: block;
   width: auto;
-  max-width: min(100%, 480px);
+  max-width: min(100%, 540px);
   height: auto;
   margin: 24px auto;
 }
